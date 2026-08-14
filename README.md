@@ -1,6 +1,7 @@
 # Olá, eu sou o João Guimarães 👋
 
-![](https://komarev.com/ghpvc/?username=JoaoGuimaraesCode&color=006bed)
+![](https://komarev.com/ghpvc/?username=JoaoGuimaraesCode&color=4C1D95)
+![Status](https://img.shields.io/badge/status-em%20transi%C3%A7%C3%A3o%20para%20dados-4C1D95?style=for-the-badge)
 
 <table>
 <tr>
@@ -19,6 +20,8 @@
 </td>
 </tr>
 </table>
+
+---
 
 ## Minhas Skills
 
@@ -46,37 +49,47 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
+---
+
 ## GitHub Stats
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=JoaoGuimaraesCode&show_icons=true&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=JoaoGuimaraesCode&show_icons=true&theme=default&hide_border=true" />
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=JoaoGuimaraesCode&show_icons=true&theme=default&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=JoaoGuimaraesCode&show_icons=true&theme=dark&hide_border=true&title_color=4C1D95&icon_color=4C1D95" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=JoaoGuimaraesCode&show_icons=true&theme=default&hide_border=true&title_color=4C1D95&icon_color=4C1D95" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=JoaoGuimaraesCode&show_icons=true&theme=default&hide_border=true&title_color=4C1D95&icon_color=4C1D95" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGuimaraesCode&layout=compact&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGuimaraesCode&layout=compact&theme=default&hide_border=true" />
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGuimaraesCode&layout=compact&theme=default&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGuimaraesCode&layout=compact&theme=dark&hide_border=true&title_color=4C1D95" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGuimaraesCode&layout=compact&theme=default&hide_border=true&title_color=4C1D95" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGuimaraesCode&layout=compact&theme=default&hide_border=true&title_color=4C1D95" />
   </picture>
 </div>
 
-## Onde me encontrar
+---
 
-<div align="center"> 
-  <a href="https://www.instagram.com/jv.guimaraes00/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:jv.guimaraes00@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-guimar%C3%A3es-2123a8245/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
+## Atividade
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoGuimaraesCode/JoaoGuimaraesCode/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoGuimaraesCode/JoaoGuimaraesCode/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/JoaoGuimaraesCode/JoaoGuimaraesCode/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
+
+---
+
+## Onde me encontrar
+
+<div align="center"> 
+  <a href="https://www.instagram.com/jv.guimaraes00/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-4C1D95?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:jv.guimaraes00@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-guimar%C3%A3es-2123a8245/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
