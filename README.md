@@ -53,18 +53,24 @@
 
 ## GitHub Stats
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=JoaoGuimaraesCode&show_icons=true&theme=dark&hide_border=true&title_color=4C1D95&icon_color=4C1D95" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=JoaoGuimaraesCode&show_icons=true&theme=default&hide_border=true&title_color=4C1D95&icon_color=4C1D95" />
     <img height="165" src="https://github-stats-extended.vercel.app/api?username=JoaoGuimaraesCode&show_icons=true&theme=default&hide_border=true&title_color=4C1D95&icon_color=4C1D95" />
   </picture>
+</td>
+<td>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGuimaraesCode&layout=compact&theme=dark&hide_border=true&title_color=4C1D95" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGuimaraesCode&layout=compact&theme=default&hide_border=true&title_color=4C1D95" />
     <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGuimaraesCode&layout=compact&theme=default&hide_border=true&title_color=4C1D95" />
   </picture>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
