@@ -60,6 +60,7 @@
     <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGuimaraesCode&layout=compact&theme=default&hide_border=true" />
   </picture>
 </div>
+
 ## Onde me encontrar
 
 <div align="center"> 
